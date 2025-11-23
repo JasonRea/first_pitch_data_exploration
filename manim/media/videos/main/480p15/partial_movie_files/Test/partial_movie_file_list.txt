@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/jason/data_exploration/first_pitch_analysis/manim/media/videos/main/480p15/partial_movie_files/Test/1185818338_857655154_223132457.mp4'
+file 'file:/home/jason/data_exploration/first_pitch_analysis/manim/media/videos/main/480p15/partial_movie_files/Test/624642324_1512519650_210121388.mp4'
+file 'file:/home/jason/data_exploration/first_pitch_analysis/manim/media/videos/main/480p15/partial_movie_files/Test/624642324_2650049689_2936087082.mp4'
+file 'file:/home/jason/data_exploration/first_pitch_analysis/manim/media/videos/main/480p15/partial_movie_files/Test/624642324_1308661999_70885558.mp4'
+file 'file:/home/jason/data_exploration/first_pitch_analysis/manim/media/videos/main/480p15/partial_movie_files/Test/624642324_1495860503_2067913323.mp4'
+file 'file:/home/jason/data_exploration/first_pitch_analysis/manim/media/videos/main/480p15/partial_movie_files/Test/624642324_1839128356_3442481059.mp4'
